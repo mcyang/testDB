@@ -1,5 +1,5 @@
 {
-  "GET" : [{
+  "Players" : [{
   "id": 1,
   "name": "john",
   "age": 28,
